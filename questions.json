@@ -3143,5 +3143,2235 @@
     "question": "In which English palace did the 'Star Chamber' sit?",
     "answer": "Palace of Westminster",
     "category": "sports"
+  },
+  {
+    "question": "Why do frogs and other organism produce so many eggs/offspring?",
+    "answer": "The more offspring produce the more likely they will survive",
+    "category": "science"
+  },
+  {
+    "question": "Who wrote the well-known book 'A Brief History of Time'?",
+    "answer": "Stephen Hawking",
+    "category": "history"
+  },
+  {
+    "question": "Which of these countries is NOT a founding member of NATO (in 1949)?",
+    "answer": "Turkey",
+    "category": "history"
+  },
+  {
+    "question": "Legendary commander of the Joseon Dynasty, Yi Sun-sin, sacrificed his life in which famous battle?",
+    "answer": "Battle of Noryang",
+    "category": "history"
+  },
+  {
+    "question": "Which of the following is a nonrenewable energy source (such as coal, oil, or natural gas)?",
+    "answer": "Fossil Fuel",
+    "category": "science"
+  },
+  {
+    "question": "Which of the following was NOT invented in China?",
+    "answer": "Seismographs",
+    "category": "science"
+  },
+  {
+    "question": "Henry I took the throne of England in the year 1100 after which relative died?",
+    "answer": "His Brother",
+    "category": "history"
+  },
+  {
+    "question": "Of the following nations, which has the smallest area?",
+    "answer": "Vatican City",
+    "category": "history"
+  },
+  {
+    "question": "In most cases, what kind of mosquitoes will drink animal blood?",
+    "answer": "Female mosquitoes",
+    "category": "science"
+  },
+  {
+    "question": "Which historical figure is entombed in Palenque's Temple of the Inscriptions?",
+    "answer": "Pakal the Great",
+    "category": "history"
+  },
+  {
+    "question": "Why was British nurse Florence Nightingale known as 'The Lady with the Lamp'?",
+    "answer": "She would inspect patients at night",
+    "category": "history"
+  },
+  {
+    "question": "When catching and releasing deep sea fish, why is it important to pierce their swim bladder?",
+    "answer": "To prevent them from dying of distended swim bladders",
+    "category": "science"
+  },
+  {
+    "question": "Which of the following factors allows certain mixed drinks to be layered?",
+    "answer": "Density",
+    "category": "science"
+  },
+  {
+    "question": "When is the International Day of Forests?",
+    "answer": "March 21",
+    "category": "science"
+  },
+  {
+    "question": "When is the World No Tobacco Day?",
+    "answer": "May 31",
+    "category": "science"
+  },
+  {
+    "question": "Which nation was NOT involved in the Battle of Waterloo?",
+    "answer": "Italy",
+    "category": "history"
+  },
+  {
+    "question": "Why was the dead sea given this name?",
+    "answer": "The high-saline water prevents plants and animals from thriving near it",
+    "category": "science"
+  },
+  {
+    "question": "Who was the leader of the Western Army during the Battle of Sekigahara, which took place during Japan's Sengoku period?",
+    "answer": "Ishida Mitsunari",
+    "category": "history"
+  },
+  {
+    "question": "Who did Boudica lead the tribes of Britain in a revolt against?",
+    "answer": "The Roman Empire",
+    "category": "history"
+  },
+  {
+    "question": "Who wrote the well-known science fiction series 'Dune'?",
+    "answer": "Frank Herbert",
+    "category": "culture"
+  },
+  {
+    "question": "Whose victory was the orchestral work '1812 Overture' composed to commemorate?",
+    "answer": "Russian Empire",
+    "category": "culture"
+  },
+  {
+    "question": "Who was the leader of the Western Army during the Battle of Sekigahara?",
+    "answer": "Ishida Mitsunari",
+    "category": "history"
+  },
+  {
+    "question": "To which army did the 'Varangian Guard' belong?",
+    "answer": "The Byzantine army",
+    "category": "history"
+  },
+  {
+    "question": "Who wrote the well-known book 'Sapiens: A Brief History of Humankind'?",
+    "answer": "Yuval Noah Harari",
+    "category": "history"
+  },
+  {
+    "question": "Why were mountaineer(s) on record to reach the summit of Mt. Everest?",
+    "answer": "Tenzing Norgay and Edmund Hillary",
+    "category": "history"
+  },
+  {
+    "question": "Why were the first mountaineers on record to reach the summit of Mt. Everest?",
+    "answer": "Tenzing Norgay and Edmund Hillary",
+    "category": "history"
+  },
+  {
+    "question": "Why do frogs and other organisms produce so many eggs/offspring?",
+    "answer": "The more offspring produced the more likely they will survive",
+    "category": "science"
+  },
+  {
+    "question": "Why are advantageous traits more likely to be passed onto offspring?",
+    "answer": "Because they are more likely to survive and produce offspring",
+    "category": "science"
+  },
+  {
+    "question": "How many action points can a governor have?",
+    "answer": "1000",
+    "category": "game"
+  },
+  {
+    "question": "Renaissance painters in Flanders, as in Italy, tended to produce what type of artwork?",
+    "answer": "Realistic",
+    "category": "culture"
+  },
+  {
+    "question": "How many fingers does the cartoon character Mickey Mouse have on each hand?",
+    "answer": "4",
+    "category": "culture"
+  },
+  {
+    "question": "Which of the following is a term for a valuable material of geologic origin that can be extracted from the earth?",
+    "answer": "Natural Resources",
+    "category": "science"
+  },
+  {
+    "question": "Which of the following is considered an energy source?",
+    "answer": "Petroleum",
+    "category": "science"
+  },
+  {
+    "question": "Eyeglasses are composed of quartz, sand, and what?",
+    "answer": "Petroleum",
+    "category": "science"
+  },
+  {
+    "question": "What is the location of the mysterious Stonehenge?",
+    "answer": "United Kingdom",
+    "category": "history"
+  },
+  {
+    "question": "Where did Genghis Khan start building his Mongolian Empire?",
+    "answer": "Asia",
+    "category": "history"
+  },
+  {
+    "question": "Which of the following does the green Olympic Ring represent?",
+    "answer": "Oceania",
+    "category": "sports"
+  },
+  {
+    "question": "How many Elite Commanders are there in Rise of Kingdoms?",
+    "answer": "5",
+    "category": "game"
+  },
+  {
+    "question": "Which of these was the world's first space station?",
+    "answer": "Salyut 1",
+    "category": "science"
+  },
+  {
+    "question": "What was the first animated film Satoshi Kon directed?",
+    "answer": "Perfect Blue",
+    "category": "culture"
+  },
+  {
+    "question": "Who authored the tragedy 'Medea'?",
+    "answer": "Euripides",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these animated movies was NOT directed by Hayao Miyazaki?",
+    "answer": "Paprika",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these films was NOT directed by Peter Weir?",
+    "answer": "Detachment",
+    "category": "culture"
+  },
+  {
+    "question": "Which film won Outstanding Picture at the first ever Oscars?",
+    "answer": "Wings",
+    "category": "culture"
+  },
+  {
+    "question": "Who directed the film 'Spring in a Small Town'?",
+    "answer": "Fei Mu",
+    "category": "culture"
+  },
+  {
+    "question": "The Academy Awards occasionally presents the Jean Hersholt Humanitarian Award. Which of these films was Jean Hersholt in?",
+    "answer": "Greed (1924)",
+    "category": "culture"
+  },
+  {
+    "question": "Who was the first man to win the World Cup as both a captain and manager?",
+    "answer": "Franz Beckenbauer",
+    "category": "sports"
+  },
+  {
+    "question": "Which of these managers has managed five World Cup teams?",
+    "answer": "Bora Milutinović",
+    "category": "sports"
+  },
+  {
+    "question": "Which manager has managed in six World Cups?",
+    "answer": "Carlos Alberto Parreira",
+    "category": "sports"
+  },
+  {
+    "question": "Which manager led his team to a record 11 consecutive World Cup match victories?",
+    "answer": "Luiz Felipe Scolari",
+    "category": "sports"
+  },
+  {
+    "question": "Who holds the record for most goals scored in a single World Cup, at 13 goals?",
+    "answer": "Just Fontaine",
+    "category": "sports"
+  },
+  {
+    "question": "Which star played in both the 1994 and 2010 World Cup?",
+    "answer": "Rigobert Song",
+    "category": "sports"
+  },
+  {
+    "question": "Which star was the oldest player to score a goal in the World Cup?",
+    "answer": "Roger Milla",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the oldest player to have played in a World Cup match?",
+    "answer": "Essam El Hadary",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the youngest player to have played in a World Cup match?",
+    "answer": "Norman Whiteside",
+    "category": "sports"
+  },
+  {
+    "question": "Which goalkeeper has scored the most goals in professional soccer?",
+    "answer": "Rogério Ceni",
+    "category": "sports"
+  },
+  {
+    "question": "Which club has won the most English Premier League titles?",
+    "answer": "Manchester United",
+    "category": "sports"
+  },
+  {
+    "question": "Which of these managers has led his team to 13 English Premier League titles?",
+    "answer": "Alex Ferguson",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the longest-serving manager in the history of Arsenal FC?",
+    "answer": "Arsène Wenger",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the north stand at Old Trafford named after?",
+    "answer": "Sir Alex Ferguson",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the south stand at Old Trafford named after?",
+    "answer": "Sir Bobby Charlton",
+    "category": "sports"
+  },
+  {
+    "question": "Which club has footballer Lionel Messi played for the longest?",
+    "answer": "Barcelona",
+    "category": "sports"
+  },
+  {
+    "question": "Which trio of strikers comes from 3 different countries?",
+    "answer": "Messi, Suarez, Neymar",
+    "category": "sports"
+  },
+  {
+    "question": "In 2010, an Apollo mission attempted to land on the moon. Due to a technical issue, it only managed to orbit around the moon and return to Earth. What was the name of the mission?",
+    "answer": "Apollo 13",
+    "category": "science"
+  },
+  {
+    "question": "In 2010, at age 71, Otto Rehhagel became the oldest person to manage a World Cup team. Which team did he manage?",
+    "answer": "Greece",
+    "category": "sports"
+  },
+  {
+    "question": "In 2018, which country set the record for being the least-populated country to ever reach the World Cup?",
+    "answer": "Iceland",
+    "category": "sports"
+  },
+  {
+    "question": "What number World Cup will the 2022 World Cup be?",
+    "answer": "22nd",
+    "category": "sports"
+  },
+  {
+    "question": "As of the 21st World Cup, who is the only player to have scored a hat-trick in 2 different World Cups?",
+    "answer": "Gabriel Batistuta",
+    "category": "sports"
+  },
+  {
+    "question": "The Golden Glove/Lev Yashin award is given to the best goalkeeper in the World Cup. In which World Cup was it first awarded?",
+    "answer": "15th",
+    "category": "sports"
+  },
+  {
+    "question": "Which Greek goddess is portrayed on the Jules Rimet trophy, the original World Cup trophy?",
+    "answer": "Nike",
+    "category": "sports"
+  },
+  {
+    "question": "What was the first World Cup trophy called?",
+    "answer": "Jules Rimet Trophy",
+    "category": "sports"
+  },
+  {
+    "question": "What was the first of the three major battles fought between Alexander the Great and the Achaemenid Empire?",
+    "answer": "Battle of the Granicus",
+    "category": "history"
+  },
+  {
+    "question": "Which of these Byzantine emperors ruled alongside four other emperors at various times only later to be declared Rome's sole emperor after 63 years in power?",
+    "answer": "Constantine VIII",
+    "category": "history"
+  },
+  {
+    "question": "Which of these figures of the Seleucid Empire was taken hostage by Rome, subsequently fled Rome, and then returned to seize the throne of their home country?",
+    "answer": "Demetrius I",
+    "category": "history"
+  },
+  {
+    "question": "According to Maya chronology, the Late Late Preclassic Period falls within:",
+    "answer": "1 BCE to 159 CE",
+    "category": "history"
+  },
+  {
+    "question": "In Maya mythology, how many levels are there in the heavens and the underworld combined?",
+    "answer": "22",
+    "category": "culture"
+  },
+  {
+    "question": "What is the half-life of Iodine-129, a radioactive isotope produced by nuclear reactors?",
+    "answer": "15.7 million years",
+    "category": "science"
+  },
+  {
+    "question": "During nuclear fusion, which of the following elements produces less energy than it absorbs?",
+    "answer": "Iron",
+    "category": "science"
+  },
+  {
+    "question": "Which of these consonants is trilled when pronounced in Italian?",
+    "answer": "r",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these Polish pianists also served as the Prime Minister of Poland?",
+    "answer": "Ignacy Jan Paderewski",
+    "category": "culture"
+  },
+  {
+    "question": "The poet Fernando Pessoa was known for writing his poems as different 'characters', which he called 'heteronyms'. Which of these is NOT one of the heteronyms that Pessoa used?",
+    "answer": "Francisco Norman",
+    "category": "culture"
+  },
+  {
+    "question": "Sandro Botticelli's painting 'Venus and Mars' is famed for its vivid colors and beautiful figures. In which gallery is this painting now housed?",
+    "answer": "The National Gallery in London",
+    "category": "culture"
+  },
+  {
+    "question": "Diego Velázquez, the painter of the realist work Portrait of Pope Innocent X, was from which country?",
+    "answer": "Spain",
+    "category": "culture"
+  },
+  {
+    "question": "In French novelist Stendhal's The Red and the Black, what is the name of the ambitious protagonist?",
+    "answer": "Julien",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these novels was NOT written by Margaret Atwood?",
+    "answer": "Flowers for Algernon",
+    "category": "culture"
+  },
+  {
+    "question": "Which writer of 'A Song of Ice and Fire' recently contributed to the script of which video game?",
+    "answer": "Elden Ring",
+    "category": "culture"
+  },
+  {
+    "question": "Who was the director of the game that won Game of the Year at The Game Awards 2022?",
+    "answer": "Hidetaka Miyazaki",
+    "category": "culture"
+  },
+  {
+    "question": "Murasaki is a character in which of the following works?",
+    "answer": "Tale of Genji",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these novels is the first ever Japanese work of literary fiction founded on the legend of King Arthur?",
+    "answer": "Kairo-kō",
+    "category": "culture"
+  },
+  {
+    "question": "What is the actual name of Dmitri Shostakovich's symphony 'Leningrad'?",
+    "answer": "Symphony No. 7 in C major",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these plays was not written by the ancient Greek tragedian Euripides?",
+    "answer": "Antigone",
+    "category": "culture"
+  },
+  {
+    "question": "Who wrote the opera Carmen?",
+    "answer": "Georges Bizet",
+    "category": "culture"
+  },
+  {
+    "question": "In which year was the first Venice Film Festival held?",
+    "answer": "1932",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these films was scored by the Japanese composer Ryuichi Sakamoto?",
+    "answer": "The Revenant",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these people did not win a Nobel Prize in Physics in 2022?",
+    "answer": "Karl Barry Sharpless",
+    "category": "science"
+  },
+  {
+    "question": "What is the largest lake on the South American continent?",
+    "answer": "Lake Maracaibo",
+    "category": "science"
+  },
+  {
+    "question": "The General Carrera Lake originates from the Andes glaciers. Which two countries border the lake?",
+    "answer": "Argentina and Chile",
+    "category": "science"
+  },
+  {
+    "question": "Thanks to large deposits of borax and pigment from local algae, the Laguna Colorada is a fantastical landscape of red and white. What country is it located in?",
+    "answer": "Bolivia",
+    "category": "science"
+  },
+  {
+    "question": "The Aral Sea was once the world's fourth largest lake, but since then it has mostly dried up. Where is it located?",
+    "answer": "Central Asia",
+    "category": "science"
+  },
+  {
+    "question": "In which lake is Olkhon Island located?",
+    "answer": "Lake Baikal",
+    "category": "science"
+  },
+  {
+    "question": "What is the depth at the deepest point of the Baltic Sea?",
+    "answer": "459m",
+    "category": "science"
+  },
+  {
+    "question": "What process is responsible for the red hues of the eponymous Red Sea?",
+    "answer": "Unusual algae",
+    "category": "science"
+  },
+  {
+    "question": "One of the benefits of canned food is its long shelf life. Where were the first canned herrings made?",
+    "answer": "Northern Europe",
+    "category": "culture"
+  },
+  {
+    "question": "In what climate does basil, known in Europe as the 'King of Herbs', largely grow?",
+    "answer": "Tropical areas",
+    "category": "science"
+  },
+  {
+    "question": "The coffee bean is in fact a type of…?",
+    "answer": "Fruit",
+    "category": "science"
+  },
+  {
+    "question": "Focaccia is a type of pizza-like bread. Which country (and its cooking culture) created the focaccia?",
+    "answer": "Italy",
+    "category": "culture"
+  },
+  {
+    "question": "Foie gras is a very nutrient-rich food. Which country produces the most foie gras?",
+    "answer": "France",
+    "category": "culture"
+  },
+  {
+    "question": "Black Forest Cake is a famous European dessert. In which country is the Black Forest from which it takes its name?",
+    "answer": "Germany",
+    "category": "culture"
+  },
+  {
+    "question": "Which country is responsible for inventing blue cheese, well-known for its pungent taste?",
+    "answer": "France",
+    "category": "culture"
+  },
+  {
+    "question": "The 'Beef Wellington' involves cooking filet mignon wrapped inside which other ingredient?",
+    "answer": "Puff pastry",
+    "category": "culture"
+  },
+  {
+    "question": "In which century did the classic English dessert sticky toffee pudding originate?",
+    "answer": "The mid-20th century",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these Chinese ethnic groups is known for drinking kumis, a drink made from fermented mare's milk?",
+    "answer": "Mongols",
+    "category": "culture"
+  },
+  {
+    "question": "The Scoville scale is often used to rate the spiciness of peppers, a higher value denoting greater spiciness. Which of these peppers is rated at over 1 million on the Scoville scale?",
+    "answer": "Soul pepper",
+    "category": "science"
+  },
+  {
+    "question": "What is the optimal temperature for roasting a chicken on the sizzling barrel of an Ottoman cannon?",
+    "answer": "200°C",
+    "category": "culture"
+  },
+  {
+    "question": "Noted Danish archaeologist Christian Jürgensen Thomsen proposed the 'three ages' system for categorizing ancient history. Which is the first stage?",
+    "answer": "Stone Age",
+    "category": "history"
+  },
+  {
+    "question": "Which of these is NOT a typical stage of sewage treatment?",
+    "answer": "Discharge",
+    "category": "science"
+  },
+  {
+    "question": "Some toothpastes contain powdered calcium carbonate. What is its function?",
+    "answer": "Acts as an abrasive",
+    "category": "science"
+  },
+  {
+    "question": "What is the slogan of the weapons manufacturer Heckler & Koch?",
+    "answer": "No Compromises!",
+    "category": "history"
+  },
+  {
+    "question": "When someone steps on a banana peel wearing shoes, the frictional coefficient between their shoe and the banana peel is:",
+    "answer": "0.07",
+    "category": "science"
+  },
+  {
+    "question": "Methods of mitigating desertification do NOT include:",
+    "answer": "Overexploitation of groundwater",
+    "category": "science"
+  },
+  {
+    "question": "Global warming will NOT lead to:",
+    "answer": "A drop in sea levels",
+    "category": "science"
+  },
+  {
+    "question": "When moist air encounters an obstacle such as a mountain range and is forced upward while air temperature drops, resulting in rain, this is known as:",
+    "answer": "Orographic precipitation",
+    "category": "science"
+  },
+  {
+    "question": "Afterglow is caused by:",
+    "answer": "Light scattering in air",
+    "category": "science"
+  },
+  {
+    "question": "When sailing through a thunderstorm, one can occasionally see a 'lightning' effect at the tip of the mast. What is this phenomenon called?",
+    "answer": "Saint Elmo's Fire",
+    "category": "science"
+  },
+  {
+    "question": "Which of these species of shark is also known as the 'Godzilla shark'?",
+    "answer": "Dracopristis hoffmanorum",
+    "category": "science"
+  },
+  {
+    "question": "The prehistoric humans known as 'homo floresiensis' are also commonly referred to as?",
+    "answer": "Hobbits",
+    "category": "science"
+  },
+  {
+    "question": "Which ancient Egyptian deity is represented with the head of a lion?",
+    "answer": "Tefnut",
+    "category": "history"
+  },
+  {
+    "question": "Which two animals symbolically decorated the pschent double crown worn by the Pharaohs?",
+    "answer": "The cobra and vulture",
+    "category": "history"
+  },
+  {
+    "question": "Which Egyptian city marked the boundary between Upper Egypt and Lower Egypt during the pre-dynastic period?",
+    "answer": "Memphis",
+    "category": "history"
+  },
+  {
+    "question": "What color paint was favored by ancient Egyptian families for the walls of their homes?",
+    "answer": "White",
+    "category": "history"
+  },
+  {
+    "question": "Which of these gods of ancient Egypt was also a symbol of royal authority?",
+    "answer": "Horus",
+    "category": "history"
+  },
+  {
+    "question": "What material did the craftsmen of ancient Egypt favor for sculpting statues and murals?",
+    "answer": "Stone",
+    "category": "history"
+  },
+  {
+    "question": "Which were the two construction materials most heavily favored by the ancient Egyptian building industry?",
+    "answer": "Mudbricks and stone",
+    "category": "history"
+  },
+  {
+    "question": "Which type of stone did the ancient Egyptians extract mainly from the Nile delta?",
+    "answer": "Limestone",
+    "category": "history"
+  },
+  {
+    "question": "Which deity of ancient Egyptian mythology was represented by the obelisk?",
+    "answer": "Ra",
+    "category": "history"
+  },
+  {
+    "question": "What did the name for ancient Egypt's Luxor Temple also mean?",
+    "answer": "The southern sanctuary",
+    "category": "history"
+  },
+  {
+    "question": "Which of these creatures was also popularly used as a kind of personal protective talisman in ancient Egypt?",
+    "answer": "Scarabs",
+    "category": "history"
+  },
+  {
+    "question": "Which of these deities were NOT meant to be given offerings at the Abu Simbel Temples?",
+    "answer": "Anubis",
+    "category": "history"
+  },
+  {
+    "question": "In Ancient Egypt, which of the following was NOT a privilege of being a 'Scribe'?",
+    "answer": "Exempt from paying medical expenses if sick",
+    "category": "history"
+  },
+  {
+    "question": "Which of these terms was also used by the ancient Egyptians to refer to themselves?",
+    "answer": "The cattle of Ra",
+    "category": "history"
+  },
+  {
+    "question": "Which of these was NOT a common type of garden in ancient Egypt?",
+    "answer": "Public gardens",
+    "category": "history"
+  },
+  {
+    "question": "Under which category does the formal writing system of ancient Egypt fall?",
+    "answer": "Hieroglyphic",
+    "category": "history"
+  },
+  {
+    "question": "What were Maya pyramids made of?",
+    "answer": "Stone",
+    "category": "history"
+  },
+  {
+    "question": "The daily physical activities of the Maya people did NOT include:",
+    "answer": "Penguin tossing",
+    "category": "history"
+  },
+  {
+    "question": "Which of these modern-day countries is NOT located in the historical territory of the Maya civilization?",
+    "answer": "Dominican Republic",
+    "category": "history"
+  },
+  {
+    "question": "Who was called 'Napoleon of crime' in some of the Sherlock Holmes stories?",
+    "answer": "Professor Moriarty",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these characters is from 'Twenty Thousand Leagues Under the Seas'?",
+    "answer": "Captain Nemo",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these books was not written by the Greek philosopher Aristotle?",
+    "answer": "Republic",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these ancient Greek philosophers did NOT participate in the discussion on justice in Plato's Republic?",
+    "answer": "Protagoras",
+    "category": "history"
+  },
+  {
+    "question": "What was the name of the alliance led by Athens in the Peloponnesian War?",
+    "answer": "Delian League",
+    "category": "history"
+  },
+  {
+    "question": "Who was the author of the History of the Peloponnesian War?",
+    "answer": "Thucydides",
+    "category": "history"
+  },
+  {
+    "question": "Which of these ancient Greek dramatists is regarded as 'the father of tragedy'?",
+    "answer": "Aeschylus",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these ancient Greek writers is regarded as 'the father of comedy'?",
+    "answer": "Aristophanes",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these is considered to be the seminal work of the French playwright Molière?",
+    "answer": "Tartuffe",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these works is not set during the Trojan War?",
+    "answer": "Antigone",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these works was NOT written by the philosopher Friedrich Nietzsche?",
+    "answer": "Commentaries on the Gallic War",
+    "category": "culture"
+  },
+  {
+    "question": "In Shakespeare's Macbeth, the titular character murders King Duncan of Scotland. What is the name of Duncan's eldest son?",
+    "answer": "Malcolm",
+    "category": "culture"
+  },
+  {
+    "question": "In the 'Batman' series by DC Comics, which iteration of Robin died as a result of a reader vote?",
+    "answer": "Jason Todd (Red Hood)",
+    "category": "culture"
+  },
+  {
+    "question": "Which is recognized by the Guinness Book of World Records as having the largest cumulative circulation of any single-author comic?",
+    "answer": "One Piece",
+    "category": "culture"
+  },
+  {
+    "question": "Which figure from Greek mythology did Mary Shelley associate Frankenstein's monster with?",
+    "answer": "Prometheus",
+    "category": "culture"
+  },
+  {
+    "question": "What is the Scoville scale used for?",
+    "answer": "Rate the spiciness of peppers",
+    "category": "science"
+  },
+  {
+    "question": "A robot may not injure a human being or, through inaction, allow a human being to come to harm. Which of Isaac Asimov's Three Laws of Robotics is this?",
+    "answer": "First law",
+    "category": "culture"
+  },
+  {
+    "question": "Which Futhark rune represents Týr, the god of war and justice in Germanic mythology?",
+    "answer": "Tiwaz",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these airports has runways on a beach?",
+    "answer": "Barra Airport",
+    "category": "culture"
+  },
+  {
+    "question": "Which civilian airport is the highest above sea level?",
+    "answer": "Daocheng Yading Airport",
+    "category": "science"
+  },
+  {
+    "question": "Which building was originally built in London to house the Great Exhibition of the Works of Industry of All Nations held in 1851?",
+    "answer": "The Crystal Palace",
+    "category": "history"
+  },
+  {
+    "question": "The 'American Dream' is rooted in which of these documents?",
+    "answer": "The Declaration of Independence",
+    "category": "history"
+  },
+  {
+    "question": "Qatar follows Arabia Standard Time. How would that be notated using UTC?",
+    "answer": "UTC+3:00",
+    "category": "history"
+  },
+  {
+    "question": "In what city did Henri I de Bourbon, Prince of Condé, pass away?",
+    "answer": "Saint-Jean-d'Angély",
+    "category": "history"
+  },
+  {
+    "question": "Bhutan is also known as the Land of the Thunder Dragon. What is its capital and largest city?",
+    "answer": "Thimphu",
+    "category": "history"
+  },
+  {
+    "question": "Which of these organizations has its headquarters in Geneva?",
+    "answer": "UN High Commissioner for Refugees",
+    "category": "history"
+  },
+  {
+    "question": "Which of these unfortunate individuals was the only person ever recorded to suffer from both dwarfism and gigantism?",
+    "answer": "Adam Rainer",
+    "category": "science"
+  },
+  {
+    "question": "According to World Athletics, which of these is NOT an official international discus weight?",
+    "answer": "1.25kg",
+    "category": "sports"
+  },
+  {
+    "question": "Miroslav Klose holds the record for most goals scored in the World Cup. How many goals has he scored?",
+    "answer": "16",
+    "category": "sports"
+  },
+  {
+    "question": "In the 2006 World Cup, Switzerland did not concede a single goal in regular play. Who was their goalkeeper?",
+    "answer": "Pascal Zuberbühler",
+    "category": "sports"
+  },
+  {
+    "question": "In the 2006 World Cup, who was the only English player to score during penalties in England's quarter-final match against Portugal?",
+    "answer": "Owen Hargreaves",
+    "category": "sports"
+  },
+  {
+    "question": "In the 1966 World Cup, England manager Alf Ramsey began using a unique formation that led England to the World Cup title. What was notable about this formation?",
+    "answer": "No wingers",
+    "category": "sports"
+  },
+  {
+    "question": "What color was the match ball used in the 1966 World Cup Final?",
+    "answer": "Orange",
+    "category": "sports"
+  },
+  {
+    "question": "Which two English players scored in the 1966 World Cup Final between England and Germany?",
+    "answer": "Martin Peters & Geoff Hurst",
+    "category": "sports"
+  },
+  {
+    "question": "In the 2014 World Cup, which of the following teams was not in the same group as the eventual champions Germany?",
+    "answer": "England",
+    "category": "sports"
+  },
+  {
+    "question": "In the 2014 World Cup held in Brazil, how many Confederation of African Football teams qualified for the tournament?",
+    "answer": "5",
+    "category": "sports"
+  },
+  {
+    "question": "In the 2018 World Cup, what other countries were in England's Group G?",
+    "answer": "Belgium, Panama, Tunisia",
+    "category": "sports"
+  },
+  {
+    "question": "In the 2018 World Cup, Thibaut Courtois won the Golden Glove award for best goalkeeper. What country is he from?",
+    "answer": "Belgium",
+    "category": "sports"
+  },
+  {
+    "question": "Which British star performed at the opening ceremony of the 2018 World Cup?",
+    "answer": "Robbie Williams",
+    "category": "sports"
+  },
+  {
+    "question": "What was the venue for the final match of the 2018 World Cup held in Russia?",
+    "answer": "Luzhniki Stadium, Moscow",
+    "category": "sports"
+  },
+  {
+    "question": "What was the name of the official match ball of the 2018 World Cup?",
+    "answer": "Telstar",
+    "category": "sports"
+  },
+  {
+    "question": "In the 2022 World Cup, how many teams made it through the group stage to the knockout stage?",
+    "answer": "16",
+    "category": "sports"
+  },
+  {
+    "question": "In the 2022 World Cup, which two teams stayed in university accommodations?",
+    "answer": "Argentina, Spain",
+    "category": "sports"
+  },
+  {
+    "question": "In the 2022 World Cup, who faced the host country Qatar in the opening match?",
+    "answer": "Ecuador",
+    "category": "sports"
+  },
+  {
+    "question": "The 2022 World Cup will be the first men's World Cup with female referees. How many will there be?",
+    "answer": "3",
+    "category": "sports"
+  },
+  {
+    "question": "What was the first men's World Cup to have a female referee?",
+    "answer": "2022 Qatar World Cup",
+    "category": "sports"
+  },
+  {
+    "question": "In 2026, the US, Mexico, and Canada will co-host the World Cup. How many teams will be participating?",
+    "answer": "48",
+    "category": "sports"
+  },
+  {
+    "question": "Which three countries will host the 2026 World Cup?",
+    "answer": "USA, Canada, and Mexico",
+    "category": "sports"
+  },
+  {
+    "question": "Which team has only played a single match in the World Cup?",
+    "answer": "Indonesia",
+    "category": "sports"
+  },
+  {
+    "question": "Which team made their World Cup debut in 2022?",
+    "answer": "Qatar",
+    "category": "sports"
+  },
+  {
+    "question": "Which team was the only former World Cup winner to fail to qualify for the 2022 World Cup?",
+    "answer": "Italy",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the youngest player in the 2022 World Cup?",
+    "answer": "Youssoufa Moukoko",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the only player to have played in three consecutive World Cup Finals?",
+    "answer": "Cafu",
+    "category": "sports"
+  },
+  {
+    "question": "Which country has participated in 8 World Cups but has never advanced past the group stage?",
+    "answer": "Scotland",
+    "category": "sports"
+  },
+  {
+    "question": "Which country has topped the FIFA world rankings but has never won a World Cup?",
+    "answer": "Belgium",
+    "category": "sports"
+  },
+  {
+    "question": "Which country was the first Asian country to reach the semi-final stage of the World Cup?",
+    "answer": "Korea",
+    "category": "sports"
+  },
+  {
+    "question": "Which country was allowed to keep the Jules Rimet Trophy permanently?",
+    "answer": "Brazil",
+    "category": "sports"
+  },
+  {
+    "question": "Who is the only manager to win the World Cup twice as a manager?",
+    "answer": "Vittorio Pozzo",
+    "category": "sports"
+  },
+  {
+    "question": "Which of these is not an official song of the 2022 World Cup?",
+    "answer": "Tatu Bom de Bola",
+    "category": "sports"
+  },
+  {
+    "question": "Which of these stars did not take part in the 2022 World Cup opening ceremony?",
+    "answer": "Shakira",
+    "category": "sports"
+  },
+  {
+    "question": "As of the 2018 World Cup, how many times has Shakira performed at the World Cup closing ceremony?",
+    "answer": "3",
+    "category": "sports"
+  },
+  {
+    "question": "In which World Cup did Harry Kane score 6 goals, earning him the Golden Boot award?",
+    "answer": "2018 Russia World Cup",
+    "category": "sports"
+  },
+  {
+    "question": "The mascot of the 2010 South Africa World Cup was an anthropomorphic leopard with green hair. What was his name?",
+    "answer": "Zakumi",
+    "category": "sports"
+  },
+  {
+    "question": "In the 2010 World Cup Final between Spain and the Netherlands, which Spanish player scored the game-winning goal?",
+    "answer": "Andrés Iniesta",
+    "category": "sports"
+  },
+  {
+    "question": "In the 2010 World Cup, which goalkeeper saved two penalty kicks during regular play?",
+    "answer": "Brad Friedel",
+    "category": "sports"
+  },
+  {
+    "question": "In what year was FIFA founded?",
+    "answer": "1904",
+    "category": "sports"
+  },
+  {
+    "question": "In what year was the first Women's World Cup held?",
+    "answer": "1991",
+    "category": "sports"
+  },
+  {
+    "question": "On which animal was the 2018 Russia World Cup's mascot based on?",
+    "answer": "Wolf",
+    "category": "sports"
+  },
+  {
+    "question": "On which ingredient was the 1986 Mexico World Cup's mascot based on?",
+    "answer": "Pepper",
+    "category": "sports"
+  },
+  {
+    "question": "What kind of animal was the mascot of the 1998 World Cup in France?",
+    "answer": "Cockerel",
+    "category": "sports"
+  },
+  {
+    "question": "Who was the first World Cup mascot?",
+    "answer": "World Cup Willie",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted and won the 1930 World Cup?",
+    "answer": "Uruguay",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the first World Cup?",
+    "answer": "Uruguay",
+    "category": "sports"
+  },
+  {
+    "question": "In what year was the first World Cup held?",
+    "answer": "1930",
+    "category": "sports"
+  },
+  {
+    "question": "The Uruguay national team displays four stars on its emblems. How many World Cups has it won?",
+    "answer": "Two",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted and won the 1978 World Cup?",
+    "answer": "Argentina",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 1994 World Cup?",
+    "answer": "The United States",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 1998 World Cup?",
+    "answer": "France",
+    "category": "sports"
+  },
+  {
+    "question": "Which country hosted the 2022 World Cup?",
+    "answer": "Qatar",
+    "category": "sports"
+  },
+  {
+    "question": "In which country was the 20th World Cup held?",
+    "answer": "Brazil",
+    "category": "sports"
+  },
+  {
+    "question": "Who designed the current World Cup trophy?",
+    "answer": "Silvio Gazzaniga",
+    "category": "sports"
+  },
+  {
+    "question": "How often does the World Cup take place?",
+    "answer": "Every 4 years",
+    "category": "sports"
+  },
+  {
+    "question": "Who scored the famous goal known as the 'hand of God'?",
+    "answer": "Diego Maradona",
+    "category": "sports"
+  },
+  {
+    "question": "In which city was the world's first international soccer match held?",
+    "answer": "Glasgow",
+    "category": "sports"
+  },
+  {
+    "question": "In soccer, which position is allowed to touch the ball with their hands while it is in their team's penalty area?",
+    "answer": "Goalkeeper",
+    "category": "sports"
+  },
+  {
+    "question": "How many times has North Korea qualified for the World Cup?",
+    "answer": "Two times",
+    "category": "sports"
+  },
+  {
+    "question": "Which Paris Saint-Germain player plays Rise of Kingdoms?",
+    "answer": "Marquinhos",
+    "category": "sports"
+  },
+  {
+    "question": "The Ancient Olympic Games were held every 4 years at Olympia, in southwest Greece. In what year are they believed to have begun?",
+    "answer": "776 BCE",
+    "category": "sports"
+  },
+  {
+    "question": "Who is considered the 'Father of the Modern Olympic Games'?",
+    "answer": "Pierre de Coubertin",
+    "category": "sports"
+  },
+  {
+    "question": "Which title did Pierre de Coubertin, founder of the International Olympic Committee, hold?",
+    "answer": "Baron",
+    "category": "sports"
+  },
+  {
+    "question": "How many Olympic gold medals did African-American athlete Jesse Owens win in 1936?",
+    "answer": "4",
+    "category": "sports"
+  },
+  {
+    "question": "Which city hosted the first ever Winter Olympics on January 25, 1924?",
+    "answer": "France",
+    "category": "sports"
+  },
+  {
+    "question": "In 1582, Oda Nobunaga was betrayed and ambushed by his general Akechi Mitsuhide. Where did this occur?",
+    "answer": "Honnō-ji Temple in Kyoto",
+    "category": "history"
+  },
+  {
+    "question": "Which prominent statesman served as the first general of the Edo shogunate at the end of Japan's Warring States period?",
+    "answer": "Tokugawa Ieyasu",
+    "category": "history"
+  },
+  {
+    "question": "In which city in the world is the Obelisk of Thutmose III currently held?",
+    "answer": "Istanbul",
+    "category": "history"
+  },
+  {
+    "question": "Who conquered the 'Kingdom of the Vandals and Alans' in the Vandalic War?",
+    "answer": "Belisarius",
+    "category": "history"
+  },
+  {
+    "question": "Li Xin, the ancestor of the 'Flying General' Li Guang, was a general of which state during the Warring States period of Chinese history?",
+    "answer": "Qin",
+    "category": "history"
+  },
+  {
+    "question": "Tongwancheng was the capital of which ethnic group from ancient China?",
+    "answer": "The Xiongnu",
+    "category": "history"
+  },
+  {
+    "question": "Which Chinese dynasty did Jiang Ziya help to establish?",
+    "answer": "The Zhou Dynasty",
+    "category": "history"
+  },
+  {
+    "question": "Which of the following Chinese emperors' reigns was known as the 'Reign of Zhenguan'?",
+    "answer": "Emperor Taizong of Tang",
+    "category": "history"
+  },
+  {
+    "question": "What is Karaku's Fire Shaman called?",
+    "answer": "Denko",
+    "category": "game"
+  },
+  {
+    "question": "Which tribe claims ownership of the Takra Forest, which must be traversed to reach the Kingdom of Karaku?",
+    "answer": "The Bloodfury clan",
+    "category": "game"
+  },
+  {
+    "question": "Acquiring Commander William I unlocks which of these achievements?",
+    "answer": "Path of Glory",
+    "category": "game"
+  },
+  {
+    "question": "Using a troop led by Julius Caesar and Cleopatra VII, which of the following actions will unlock the achievement 'Immortal Longings'?",
+    "answer": "Attack a city",
+    "category": "game"
+  },
+  {
+    "question": "What achievement would spending over 200 Golden Keys in the Tavern in a single transaction unlock?",
+    "answer": "All In",
+    "category": "game"
+  },
+  {
+    "question": "Which achievement is unlocked from upgrading 2 hospitals to Lvl 25?",
+    "answer": "Hale & Hearty",
+    "category": "game"
+  },
+  {
+    "question": "What is the name of the achievement obtained by acquiring 3 permanent city themes?",
+    "answer": "Technicolor Themes",
+    "category": "game"
+  },
+  {
+    "question": "How do you obtain the Friend of the Kingdom achievement?",
+    "answer": "Visit 100 tribal villages",
+    "category": "game"
+  },
+  {
+    "question": "Which of these achievements is earned from healing 100,000 injured troops in the hospital?",
+    "answer": "Rebuilding",
+    "category": "game"
+  },
+  {
+    "question": "Which chapter of the Kingdom Chronicles grants the 'Explorer for Life' achievement if all mist is explored before the chapter's end?",
+    "answer": "Long Peace",
+    "category": "game"
+  },
+  {
+    "question": "How high in the Sunset Canyon daily ranking do you need to place before you can receive the Golden Key Daily Rewards?",
+    "answer": "In the top 5",
+    "category": "game"
+  },
+  {
+    "question": "Which of these rewards will NOT be awarded to the first place season finisher in Sunset Canyon?",
+    "answer": "Dazzling Starlight Sculpture",
+    "category": "game"
+  },
+  {
+    "question": "Which of these boosts work in Sunset Canyon?",
+    "answer": "VIP Level troop capacity",
+    "category": "game"
+  },
+  {
+    "question": "In Ark of Osiris, what effect does the Desert Storm skill have on enemy troops?",
+    "answer": "Deals skill damage",
+    "category": "game"
+  },
+  {
+    "question": "In Ark of Osiris, what is the requirement for an alliance to participate in the Golden Battlefield?",
+    "answer": "Ranked top 20 for alliance power in their kingdom",
+    "category": "game"
+  },
+  {
+    "question": "What reward may be given to governors who do NOT qualify for the Ark of Osiris but whose fellow alliance members do qualify and are defeated?",
+    "answer": "Gems",
+    "category": "game"
+  },
+  {
+    "question": "Which of the following types of bonuses do NOT take effect in Ark of Osiris?",
+    "answer": "Rune buffs",
+    "category": "game"
+  },
+  {
+    "question": "Which of the following will NOT prevent you from entering an Ark of Osiris Battlefield?",
+    "answer": "Activating an Attack Enhancement",
+    "category": "game"
+  },
+  {
+    "question": "How many 'Golden Kingdom Equipment Troves' are contained within the Golden Chest earned from stage 16 of the 'Golden Kingdom' event?",
+    "answer": "3",
+    "category": "game"
+  },
+  {
+    "question": "Which of these Blessings immediately inflicts a 10% loss of troop power on your enemy at the start of battle in the 'Golden Kingdom' event?",
+    "answer": "Anchor",
+    "category": "game"
+  },
+  {
+    "question": "In the Lohar's Trial event, how can players obtain Bone Necklaces?",
+    "answer": "Defeating ordinary Barbarians",
+    "category": "game"
+  },
+  {
+    "question": "In the Desire of Victory event, how can players gain rewards?",
+    "answer": "Training troops",
+    "category": "game"
+  },
+  {
+    "question": "What is the maximum number of troops you can form in the Champions of Olympia event?",
+    "answer": "9",
+    "category": "game"
+  },
+  {
+    "question": "What is the name of the fourth bracket in the 'Champions of Olympia' event?",
+    "answer": "Brilliant Silver",
+    "category": "game"
+  },
+  {
+    "question": "What kind of combat blessing do Archers receive in Champions of Olympia?",
+    "answer": "The Blessing of Ares",
+    "category": "game"
+  },
+  {
+    "question": "What kind of combat blessing do Cavalry receive in Champions of Olympia?",
+    "answer": "The Blessing of Hades",
+    "category": "game"
+  },
+  {
+    "question": "What kind of combat blessing do Infantry receive in Champions of Olympia?",
+    "answer": "The Blessing of Athena",
+    "category": "game"
+  },
+  {
+    "question": "What kind of combat blessing do mixed units receive in Champions of Olympia?",
+    "answer": "The Blessing of Apollo",
+    "category": "game"
+  },
+  {
+    "question": "Which of these terrain types exerts a slight penalty on troop Defense on the Treasure Hill map in 'Champions of Olympia'?",
+    "answer": "Whirlwind",
+    "category": "game"
+  },
+  {
+    "question": "Which of these is NOT a Champions of Olympia map?",
+    "answer": "Treasure Hill",
+    "category": "game"
+  },
+  {
+    "question": "What is the maximum number of King's Road decorative buildings a governor can construct?",
+    "answer": "400",
+    "category": "game"
+  },
+  {
+    "question": "What is the Gem cost of the Human Sculpture decoration?",
+    "answer": "2000",
+    "category": "game"
+  },
+  {
+    "question": "What color are the wings on the Pegasus decoration?",
+    "answer": "Gold",
+    "category": "game"
+  },
+  {
+    "question": "What color is used on the roofs of buildings in the Japanese civilization?",
+    "answer": "Black",
+    "category": "game"
+  },
+  {
+    "question": "What color are the fresh flowers in the Lyceum of Wisdom for the French civilization?",
+    "answer": "Red",
+    "category": "game"
+  },
+  {
+    "question": "What color gemstones are engraved upon the crown of the commander El Cid?",
+    "answer": "Red",
+    "category": "game"
+  },
+  {
+    "question": "What is the color of the jade pendant around the commander Cao Cao's waist?",
+    "answer": "Green",
+    "category": "game"
+  },
+  {
+    "question": "What is the color of the floral headdress worn by commander Šárka in Rise of Kingdoms?",
+    "answer": "Red",
+    "category": "game"
+  },
+  {
+    "question": "In which commander's background picture can you see a chicken?",
+    "answer": "Queen Tamar of Georgia",
+    "category": "game"
+  },
+  {
+    "question": "In which commander's background picture can you see a sakura tree?",
+    "answer": "Minamoto no Yoshitsune",
+    "category": "game"
+  },
+  {
+    "question": "Which animal is featured on commander Richard I's background image?",
+    "answer": "A dog",
+    "category": "game"
+  },
+  {
+    "question": "Which commander features a ship in their background image?",
+    "answer": "Pelagius",
+    "category": "game"
+  },
+  {
+    "question": "Which of these commanders features snowflakes in their background image?",
+    "answer": "Björn Ironside",
+    "category": "game"
+  },
+  {
+    "question": "Which of these fruits appears in the background image for the Commander Imhotep?",
+    "answer": "Banana",
+    "category": "game"
+  },
+  {
+    "question": "Which of these plants is visible in Mulan and Cao Cao's background image on the commander screen?",
+    "answer": "Bamboo",
+    "category": "game"
+  },
+  {
+    "question": "Which commander has a crown with gemstones of a different color to the others?",
+    "answer": "Queen Tamar of Georgia",
+    "category": "game"
+  },
+  {
+    "question": "Which commander can be said to have the thickest eyebrows in Rise of Kingdoms?",
+    "answer": "Cao Cao",
+    "category": "game"
+  },
+  {
+    "question": "Which of these commanders has NO whiskers or other facial hair?",
+    "answer": "Alexander the Great",
+    "category": "game"
+  },
+  {
+    "question": "Which of these commanders is bald?",
+    "answer": "Ragnar Lodbrok",
+    "category": "game"
+  },
+  {
+    "question": "Which of these commanders is NOT shown wearing a cloak?",
+    "answer": "Mehmed II",
+    "category": "game"
+  },
+  {
+    "question": "Which of these commanders does NOT carry a shield?",
+    "answer": "Charlemagne",
+    "category": "game"
+  },
+  {
+    "question": "Which of these commanders does NOT carry a sword?",
+    "answer": "Theodora",
+    "category": "game"
+  },
+  {
+    "question": "Which of these commanders carries a bow and arrows as well as a sword?",
+    "answer": "Æthelflæd",
+    "category": "game"
+  },
+  {
+    "question": "Which of these commanders wears a ring on their hand?",
+    "answer": "Queen Tamar of Georgia",
+    "category": "game"
+  },
+  {
+    "question": "Which of these female commanders has flowers in their hair?",
+    "answer": "Boudica",
+    "category": "game"
+  },
+  {
+    "question": "Which of these female commanders has been described as 'The Georgian Will'?",
+    "answer": "Queen Tamar of Georgia",
+    "category": "game"
+  },
+  {
+    "question": "In RoK, how many soldiers stand in front of the gates of your city?",
+    "answer": "2",
+    "category": "game"
+  },
+  {
+    "question": "How many bowmen are shown practising in the Archery Range when training composite bowmen?",
+    "answer": "3",
+    "category": "game"
+  },
+  {
+    "question": "How many students sit in on the lectures held by the scholars of the Lyceum of Wisdom?",
+    "answer": "6",
+    "category": "game"
+  },
+  {
+    "question": "How many flags are featured in front of the Alliance Center for the French civilization?",
+    "answer": "6",
+    "category": "game"
+  },
+  {
+    "question": "How many gears are shown on the icon for the Economic Technology 'Engineering'?",
+    "answer": "2",
+    "category": "game"
+  },
+  {
+    "question": "How many tents are shown on the icon for the Military Technology 'Encampment'?",
+    "answer": "3",
+    "category": "game"
+  },
+  {
+    "question": "How many stars are featured on the banner displayed behind the commander Minamoto no Yoshitsune?",
+    "answer": "3",
+    "category": "game"
+  },
+  {
+    "question": "How many small tents can you see in a Lvl 3 Barbarian Fort?",
+    "answer": "6",
+    "category": "game"
+  },
+  {
+    "question": "How many polar bears feature on the Heart of the North Avatar Frame?",
+    "answer": "3",
+    "category": "game"
+  },
+  {
+    "question": "How many Easter eggs are featured in the Easter Egg Avatar Frame?",
+    "answer": "5",
+    "category": "game"
+  },
+  {
+    "question": "How many roses feature on the Rose Petals Avatar Frame?",
+    "answer": "4",
+    "category": "game"
+  },
+  {
+    "question": "How many emeralds are featured on the clothing of commander Matilda of Flanders?",
+    "answer": "5",
+    "category": "game"
+  },
+  {
+    "question": "How many cards in total are shown in the Mysterious Merchant's hands?",
+    "answer": "5",
+    "category": "game"
+  },
+  {
+    "question": "How many arrows are stuck in the shield of commander Lohar?",
+    "answer": "4",
+    "category": "game"
+  },
+  {
+    "question": "How many beasts can you expect to see fighting alongside Lvl 20 barbarian troops in Rise of Kingdoms?",
+    "answer": "1 bear and 2 wolves",
+    "category": "game"
+  },
+  {
+    "question": "How many wheels are there on a battering ram?",
+    "answer": "6",
+    "category": "game"
+  },
+  {
+    "question": "How many Watchtowers are included in a Lvl 25 city?",
+    "answer": "8",
+    "category": "game"
+  },
+  {
+    "question": "How many refreshes are available per visit to the Mysterious Merchant?",
+    "answer": "5",
+    "category": "game"
+  },
+  {
+    "question": "How many Golden Keys are awarded to the top finishing Governor in each season of Sunset Canyon?",
+    "answer": "5",
+    "category": "game"
+  },
+  {
+    "question": "How many individual credits can be earned from selling normal equipment blueprints through the Alliance Shop's reclaim feature?",
+    "answer": "400",
+    "category": "game"
+  },
+  {
+    "question": "How many Legendary Commander Sculptures are awarded to the top finisher by total rankings in the 'The Mightiest Governor' event?",
+    "answer": "180",
+    "category": "game"
+  },
+  {
+    "question": "How many points are earned per 1 point of upgraded Power within the 'Stage 4: Power Upgrade' segment of 'The Mightiest Governor' event?",
+    "answer": "2",
+    "category": "game"
+  },
+  {
+    "question": "How many points are gained per Lvl 3 unit severely wounded/killed in the 'Stage 5: Enemy Elimination' segment of the 'Mightiest Governor' event?",
+    "answer": "4",
+    "category": "game"
+  },
+  {
+    "question": "How many Key Points are required to unlock the Treasure of Blue Crystal in Alliance Gifts?",
+    "answer": "3000000",
+    "category": "game"
+  },
+  {
+    "question": "How many keys are included in the Alliance Gift received for the destruction of a Lvl 5 Barbarian Fort?",
+    "answer": "60",
+    "category": "game"
+  },
+  {
+    "question": "How many keys are included in the Wooden Chest Alliance Gift?",
+    "answer": "10",
+    "category": "game"
+  },
+  {
+    "question": "What tier of crystal treasure is found in the Lvl 26 Alliance Gift?",
+    "answer": "Treasure of Blue Crystal",
+    "category": "game"
+  },
+  {
+    "question": "Which of the following actions is NOT available to an alliance leader in Rise of Kingdoms?",
+    "answer": "Quit Alliance",
+    "category": "game"
+  },
+  {
+    "question": "Which privilege is reserved for titled officers (not normal officers)?",
+    "answer": "The ability to check alliance members' online status",
+    "category": "game"
+  },
+  {
+    "question": "Which of these actions can be performed by alliance leaders and titled officers, but NOT non-titled officers?",
+    "answer": "Sign up for Ark of Osiris",
+    "category": "game"
+  },
+  {
+    "question": "What does the ankh character represent in ancient Egyptian hieroglyphics?",
+    "answer": "Life",
+    "category": "history"
+  },
+  {
+    "question": "In what year did the Late Show with David Letterman first premiere?",
+    "answer": "1993",
+    "category": "culture"
+  },
+  {
+    "question": "When was the theremin, one of the first electronic musical instruments, invented?",
+    "answer": "1919",
+    "category": "culture"
+  },
+  {
+    "question": "How many separate khanates or empires had the Mongol Empire fractured into by the time of Kublai's death in 1294?",
+    "answer": "4",
+    "category": "history"
+  },
+  {
+    "question": "In what century was a settlement established near the mouth of the Amstel, which would eventually become the city of Amsterdam?",
+    "answer": "12th century",
+    "category": "history"
+  },
+  {
+    "question": "Northern Humanists like Erasmus were most commonly known for what?",
+    "answer": "Interest in religious and social reform",
+    "category": "history"
+  },
+  {
+    "question": "When did the 'hard-boiled' or 'noir' literary genre of fiction first flourish?",
+    "answer": "1920s",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these events took place in North America during the Roaring Twenties?",
+    "answer": "The 'Weird Tales' magazine was first published",
+    "category": "culture"
+  },
+  {
+    "question": "Into what shape does commander Yi Seong-Gye's fan-shaped active skill transform after gaining Expertise?",
+    "answer": "A circle",
+    "category": "game"
+  },
+  {
+    "question": "In RoK, which of Sun Tzu's skills is enhanced by his expertise skill?",
+    "answer": "Art of War",
+    "category": "game"
+  },
+  {
+    "question": "Which of these skills belonging to Commander Sun Tzu is enhanced upon Awakening?",
+    "answer": "Art of War",
+    "category": "game"
+  },
+  {
+    "question": "Which of these commanders' Expertise Skill is the enhanced version of an existing skill?",
+    "answer": "Björn Ironside",
+    "category": "game"
+  },
+  {
+    "question": "Which of these commanders will gain a bonus from the Museum Relic 'Twin Dragons Inscription'?",
+    "answer": "Yi Seong-Gye",
+    "category": "game"
+  },
+  {
+    "question": "Which is Minamoto no Yoshitsune's active skill?",
+    "answer": "Kyohachiryu",
+    "category": "game"
+  },
+  {
+    "question": "What is the Expertise Skill of the commander Alexander the Great called?",
+    "answer": "Son of Amun",
+    "category": "game"
+  },
+  {
+    "question": "Which of these active skills belongs to Charles Martel?",
+    "answer": "Shield of Francia",
+    "category": "game"
+  },
+  {
+    "question": "Which of these is one of Diaochan's Active Skills?",
+    "answer": "Dance of Chaos",
+    "category": "game"
+  },
+  {
+    "question": "Which of these is a passive skill of Commander Thutmose III?",
+    "answer": "Conquest of Mitanni",
+    "category": "game"
+  },
+  {
+    "question": "In RoK, which of the following armaments can be used with the arch formation?",
+    "answer": "Emblem of the North",
+    "category": "game"
+  },
+  {
+    "question": "Which formation is the 'Imperial War Drum' armament for?",
+    "answer": "V",
+    "category": "game"
+  },
+  {
+    "question": "Which of the following CANNOT be equipped to a Commander?",
+    "answer": "Lohar's Longbow",
+    "category": "game"
+  },
+  {
+    "question": "Which commander says: 'My destiny is determined by faith and opportunity'?",
+    "answer": "Matilda of Flanders",
+    "category": "game"
+  },
+  {
+    "question": "Which of these is a line of Tomoe Gozen?",
+    "answer": "My power scares even the ghosts.",
+    "category": "game"
+  },
+  {
+    "question": "In RoK, which of the following characters does Sun Tzu mention in his Trust dialogue?",
+    "answer": "Mulan",
+    "category": "game"
+  },
+  {
+    "question": "In RoK, which Kingdom Chronicles chapter requires all fog in your kingdom to be fully explored?",
+    "answer": "Long Peace",
+    "category": "game"
+  },
+  {
+    "question": "What is the unlock condition for Nightmare difficulty in the 'Ian's Ballads' event?",
+    "answer": "Reach City Hall Lvl 23 and 20 million Power",
+    "category": "game"
+  },
+  {
+    "question": "Puncture Wounds is the skill of which character in Ceroli Crisis?",
+    "answer": "Astrid",
+    "category": "game"
+  },
+  {
+    "question": "By what other name are Ceroli Chieftains Ak & Hok also known by?",
+    "answer": "The Astral Twins",
+    "category": "game"
+  },
+  {
+    "question": "By what other name is the Ceroli Chieftain Wafura also known?",
+    "answer": "Wolfshadow",
+    "category": "game"
+  },
+  {
+    "question": "What caused the deaths of Ceroli Chieftain Dekar's parents?",
+    "answer": "The discovery of their witchcraft studies",
+    "category": "game"
+  },
+  {
+    "question": "Where was the Ceroli Chieftain Torgny born?",
+    "answer": "Citadel of Braves",
+    "category": "game"
+  },
+  {
+    "question": "Which Chieftain in the Ceroli Crisis event mounted a successful coup?",
+    "answer": "Torgny",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain spent over 20 years garrisoning the Northern Reaches?",
+    "answer": "Torgny",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain once encircled the Citadel of Braves with their forces?",
+    "answer": "Torgny",
+    "category": "game"
+  },
+  {
+    "question": "Which of these Ceroli Chieftains is also called Stormbringer?",
+    "answer": "Torgny",
+    "category": "game"
+  },
+  {
+    "question": "Which of these Ceroli Chieftains is also called the Disaster Bringer?",
+    "answer": "Dekar",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain safeguards the Whitestone Tower?",
+    "answer": "Frida",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain has power over frost?",
+    "answer": "Frida",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain has been tasked with safeguarding Windrage Cliffs?",
+    "answer": "Astrid",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain wields two weapons at once?",
+    "answer": "Astrid",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain dual wields a dagger and bow?",
+    "answer": "Wafura",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain's tribe has lived in the freezing wastes for generations?",
+    "answer": "Wafura",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain works alongside a snake?",
+    "answer": "Dekar",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain dwells in a place known as Death Forest?",
+    "answer": "Dekar",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain comes from Horn Bay?",
+    "answer": "Keira",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain comes from Sabertooth Valley?",
+    "answer": "Ak & Hok",
+    "category": "game"
+  },
+  {
+    "question": "Which Ceroli Chieftain uses a bow for a weapon?",
+    "answer": "Keira",
+    "category": "game"
+  },
+  {
+    "question": "Which of these Avatar Frames are available for purchase?",
+    "answer": "Rose Petals",
+    "category": "game"
+  },
+  {
+    "question": "Which of these Avatar Frames can be obtained from the Ceroli Crisis event?",
+    "answer": "Undersea Kingdom",
+    "category": "game"
+  },
+  {
+    "question": "What letter is shown on the Scolas' Lucky Coin decoration?",
+    "answer": "L",
+    "category": "game"
+  },
+  {
+    "question": "Which of these city themes feature balloons?",
+    "answer": "Harvest Cottage",
+    "category": "game"
+  },
+  {
+    "question": "Which of these City Themes offers a special attributes bonus of +5% to Cavalry Attack and -5% to Archer Health?",
+    "answer": "Sower's Song",
+    "category": "game"
+  },
+  {
+    "question": "What is the bonus provided by the Frozen Fortress legendary city theme?",
+    "answer": "Infantry Defense +10%",
+    "category": "game"
+  },
+  {
+    "question": "What occupation buff is provided by the Flame Altar?",
+    "answer": "Troop Attack +3%",
+    "category": "game"
+  },
+  {
+    "question": "Which of these holy sites grants a march speed bonus?",
+    "answer": "Sanctum of Wind",
+    "category": "game"
+  },
+  {
+    "question": "Which of these Alliance Skills increases damage versus barbarians and other neutral units?",
+    "answer": "Unbridled Progress",
+    "category": "game"
+  },
+  {
+    "question": "Which of these Alliance Skills will boost your resource gathering speed?",
+    "answer": "Fully Loaded",
+    "category": "game"
+  },
+  {
+    "question": "What resource is required to travel in the State Forum?",
+    "answer": "Action Points",
+    "category": "game"
+  },
+  {
+    "question": "What level do you need to upgrade the State Forum to in order to unlock the Dispatch feature?",
+    "answer": "10",
+    "category": "game"
+  },
+  {
+    "question": "In the COMMANDER VIEW page, what buff do commanders acting as a 'Iron Guard' get?",
+    "answer": "Troop Health +1%",
+    "category": "game"
+  },
+  {
+    "question": "In the COMMANDER VIEW page, what buff do commanders acting as a 'Ranger' get?",
+    "answer": "None of these answers are correct",
+    "category": "game"
+  },
+  {
+    "question": "Which commander role provides a load boost to troops?",
+    "answer": "Supply Captain",
+    "category": "game"
+  },
+  {
+    "question": "What is the alliance rally capacity provided by a Lvl 15 Fort?",
+    "answer": "775000",
+    "category": "game"
+  },
+  {
+    "question": "How much capacity does a Lvl 15 Hospital provide (excluding boosts)?",
+    "answer": "29000",
+    "category": "game"
+  },
+  {
+    "question": "What is the total Lvl 25 Hospital Capacity for severely wounded troops (excluding boosts)?",
+    "answer": "300000",
+    "category": "game"
+  },
+  {
+    "question": "How much stone will a Lvl 17 Quarry produce every hour (excluding boosts)?",
+    "answer": "2775",
+    "category": "game"
+  },
+  {
+    "question": "How much reinforcement troop capacity does a city receive at Alliance Center Lvl 20?",
+    "answer": "575000",
+    "category": "game"
+  },
+  {
+    "question": "When not affected by buffs, how much resource capacity does a Level 25 Storehouse have for each type of resource?",
+    "answer": "2500000",
+    "category": "game"
+  },
+  {
+    "question": "How much total daily contribution is required to place in the daily alliance contribution rankings?",
+    "answer": "10000",
+    "category": "game"
+  },
+  {
+    "question": "At what level does the Trading Posts transport tax rate become 10%?",
+    "answer": "24",
+    "category": "game"
+  },
+  {
+    "question": "What is the minimum number of Silver Keys that can be obtained from the 'Treasure of Wisdom' bundle?",
+    "answer": "2",
+    "category": "game"
+  },
+  {
+    "question": "How many minutes' worth total of speedups can be obtained from purchasing the '7-Day Speedup Supply' in addition to the immediate 1,050 Gem reward?",
+    "answer": "3,150 minutes",
+    "category": "game"
+  },
+  {
+    "question": "How many Normal Iron Ore do you need to make an Advanced Iron Ore?",
+    "answer": "4",
+    "category": "game"
+  },
+  {
+    "question": "How many sections are featured in the Kingdom Newspaper outside of special calendar events?",
+    "answer": "5",
+    "category": "game"
+  },
+  {
+    "question": "How much gold does a single issue of the Kingdom Newspaper cost?",
+    "answer": "1000",
+    "category": "game"
+  },
+  {
+    "question": "What is the maximum period of time that alliance resources can accumulate for in the Alliance Territory screen?",
+    "answer": "24h",
+    "category": "game"
+  },
+  {
+    "question": "Which of these areas contains a waterwheel?",
+    "answer": "Alliance Cropland",
+    "category": "game"
+  },
+  {
+    "question": "Which of the following rewards CANNOT be obtained from a Barbarian Keep in Rise of Kingdoms?",
+    "answer": "Commander Sculptures",
+    "category": "game"
+  },
+  {
+    "question": "Which of these items can NOT be obtained by defeating barbarians?",
+    "answer": "VIP points",
+    "category": "game"
+  },
+  {
+    "question": "Which of these items can NOT be obtained from an Equipment Chest?",
+    "answer": "Tomes of Knowledge",
+    "category": "game"
+  },
+  {
+    "question": "Which of these items CANNOT be obtained from a Tavern Equipment Chest?",
+    "answer": "60-Minute Training Speedup",
+    "category": "game"
+  },
+  {
+    "question": "Which of these items CANNOT be obtained from the Alliance Stone Chest?",
+    "answer": "Silver Keys",
+    "category": "game"
+  },
+  {
+    "question": "Which of these items may be selected from the Lvl 3 'Pick One' Resource Chest?",
+    "answer": "150,000 Food",
+    "category": "game"
+  },
+  {
+    "question": "Which of these boosts work in Expeditions in Rise of Kingdoms?",
+    "answer": "All of them",
+    "category": "game"
+  },
+  {
+    "question": "Which scout attribute CANNOT be enhanced by upgrading a Lvl 11 Scout Camp?",
+    "answer": "Number of Scouts",
+    "category": "game"
+  },
+  {
+    "question": "How long does the rune dropped by defeating the Guardians remain on the map?",
+    "answer": "8 hours",
+    "category": "game"
+  },
+  {
+    "question": "How many troops are recommended for destroying a Lvl 3 Barbarian Fort?",
+    "answer": "480,000 Lvl 3 units",
+    "category": "game"
+  },
+  {
+    "question": "The blueprint fragments of which of the following accessories CANNOT be redeemed from the Season of Conquest Shop?",
+    "answer": "Pendant of Eternal Night",
+    "category": "game"
+  },
+  {
+    "question": "What is the effect of the accessory 'Vengeance'?",
+    "answer": "Counterattack Damage +8%",
+    "category": "game"
+  },
+  {
+    "question": "Which of the following buffs comes from levelling up the required structure to level 25?",
+    "answer": "Transportation March Speed Bonus",
+    "category": "game"
+  },
+  {
+    "question": "Ru ware is one of the most famous types of Chinese pottery, known for its delicate pale blue glaze. Which dynasty did it originate from?",
+    "answer": "Song",
+    "category": "history"
+  },
+  {
+    "question": "The Qingming Riverside Map captures the daily life and landscape of which ancient Chinese dynasty?",
+    "answer": "The Song",
+    "category": "history"
+  },
+  {
+    "question": "The Tang dynasty style of pottery decoration known as 'sancai' primarily uses which three colors?",
+    "answer": "Yellow, green, white",
+    "category": "history"
+  },
+  {
+    "question": "By what other name is October also known under Japan's old calendar?",
+    "answer": "Kannazuki",
+    "category": "culture"
+  },
+  {
+    "question": "Which famous Japanese samurai was called 'Ushiwakamaru' as a child?",
+    "answer": "Minamoto no Yoshitsune",
+    "category": "history"
+  },
+  {
+    "question": "Where do most of the Ainu people live?",
+    "answer": "Hokkaido",
+    "category": "history"
+  },
+  {
+    "question": "Which Japanese haiku poet wrote under the pseudonym 'Tosei'?",
+    "answer": "Matsuo Basho",
+    "category": "culture"
+  },
+  {
+    "question": "Which of these works of Japanese Monogatari literature describes the legend of 'Kaguya-hime'?",
+    "answer": "The Tale of The Bamboo Cutter",
+    "category": "culture"
+  },
+  {
+    "question": "Held in 1929, how long did the first Academy Awards ('Oscars') ceremony take?",
+    "answer": "15 minutes",
+    "category": "culture"
+  },
+  {
+    "question": "When was the first Venice Film Festival held?",
+    "answer": "1932",
+    "category": "culture"
+  },
+  {
+    "question": "In what year did Einstein publish his four Annus Mirabilis ('Miracle Papers')?",
+    "answer": "1905",
+    "category": "science"
+  },
+  {
+    "question": "In what year did Alexander Fleming discover penicillin?",
+    "answer": "1928",
+    "category": "science"
+  },
+  {
+    "question": "Which entomologist and astronomer from New Zealand first proposed adopting a method of Daylight Saving Time?",
+    "answer": "George Hudson",
+    "category": "history"
+  },
+  {
+    "question": "The Singing Sand Dunes in Dunhuang, China are known for making a loud drumming sound whenever the wind blows. What desert are they a part of?",
+    "answer": "Kumtag Desert",
+    "category": "history"
+  },
+  {
+    "question": "Big Ben is located in which of the following countries?",
+    "answer": "United Kingdom",
+    "category": "history"
+  },
+  {
+    "question": "The borders of which of these countries extend across two continents?",
+    "answer": "Egypt",
+    "category": "history"
+  },
+  {
+    "question": "Where in Italy is Vatican City located?",
+    "answer": "Rome",
+    "category": "history"
+  },
+  {
+    "question": "In which country was Botticelli, painter of The Birth of Venus, born?",
+    "answer": "Italy",
+    "category": "culture"
+  },
+  {
+    "question": "Johannes Vermeer, the painter of Girl with a Pearl Earring, was from which country?",
+    "answer": "The Netherlands",
+    "category": "culture"
+  },
+  {
+    "question": "How many hurricanes were recorded around the Pacific Ocean in the year 1977?",
+    "answer": "4",
+    "category": "science"
+  },
+  {
+    "question": "Which of these is NOT a breakdown of alliance technology?",
+    "answer": "Military",
+    "category": "game"
+  },
+  {
+    "question": "Which of these is NOT a mail report category?",
+    "answer": "Gathering",
+    "category": "game"
+  },
+  {
+    "question": "Which of these is found in the alliance Golden Chest?",
+    "answer": "1,000 Individual Credits",
+    "category": "game"
+  },
+  {
+    "question": "Which of the following penalties may be applied in response to the use of third-party software?",
+    "answer": "Battle restrictions",
+    "category": "game"
+  },
+  {
+    "question": "Shanghai's Jin Mao Tower has how many floors?",
+    "answer": "88",
+    "category": "history"
   }
 ]
